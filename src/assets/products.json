@@ -1,0 +1,253 @@
+{
+  "products": [
+    {
+      "title": "Knee-high Boots",
+      "body_html": "",
+      "vendor": "Dolce & Gabbana",
+      "handle": "knee-high-boots",
+      "variants": [
+        {
+          "compare_at_price": "89",
+          "price": "49.99"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/Knee-highBoots1.jpg?v=1654691770"
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/Knee-highBoots2.jpg?v=1654691778"
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/Knee-highBoots3.jpg?v=1654691816"
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/Knee-highBoots4.jpg?v=1654691818"
+        }
+      ]
+    },
+    {
+      "title": "Waterproof Winter Boots",
+      "body_html": "",
+      "vendor": "Dolce & Gabbana",
+      "handle": "waterproof-winter-boots",
+      "variants": [
+        {
+          "compare_at_price": "99",
+          "price": "59.99"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/WaterproofWinterBoots1.jpg?v=1654680444"
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/WaterproofWinterBoots3.jpg?v=1654680763"
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/Warm-linedSlip-onBoots2.jpg?v=1654680763"
+        }
+      ]
+    },
+    {
+      "title": "Warm-lined Boots",
+      "body_html": "",
+      "vendor": "",
+      "handle": "warm-lined-boots",
+      "variants": [
+        {
+          "compare_at_price": "79",
+          "price": "29.99"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/Warm-linedBoots1.jpg?v=1654680243"
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/Warm-linedBoots2.jpg?v=1654681433"
+        }
+      ]
+    },
+    {
+      "title": "Hooded Jacket with Drawstring",
+      "body_html": "",
+      "vendor": "",
+      "handle": "hooded-jacket-with-drawstring",
+      "variants": [
+        {
+          "compare_at_price": "99",
+          "price": "19.99"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/HoodedJacketwithDrawstring1.jpg?v=1648303697"
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/HoodedJacketwithDrawstring4.jpg?v=1648303697"
+        }
+      ]
+    },
+    {
+      "title": "Oversized Cotton Shirt",
+      "body_html": "",
+      "vendor": "",
+      "handle": "oversized-cotton-shirt",
+      "variants": [
+        {
+          "compare_at_price": "89",
+          "price": "49.99"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/OversizedCottonShirt4.jpg?v=1651837015"
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/OversizedCottonShirt5.jpg?v=1651837015"
+        }
+      ]
+    },
+    {
+      "title": "Cotton Dress with Eyelet Embroidery",
+      "body_html": "",
+      "vendor": "",
+      "handle": "cotton-dress-with-eyelet-embroidery",
+      "variants": [
+        {
+          "compare_at_price": "89",
+          "price": "49.99"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/CottonDresswithEyeletEmbroidery2.jpg?v=1648303438"
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/CottonDresswithEyeletEmbroidery3.jpg?v=1648303438"
+        }
+      ]
+    },
+    {
+      "title": "Short Twill Skirt",
+      "body_html": "",
+      "vendor": "",
+      "handle": "short-twill-skirt",
+      "variants": [
+        {
+          "compare_at_price": "299",
+          "price": "79.99"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/ShortTwillSkirt1.jpg?v=1648284861"
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/ShortTwillSkirt2.jpg?v=1648284920"
+        }
+      ]
+    },
+    {
+      "title": "Sarong",
+      "body_html": "",
+      "vendor": "",
+      "handle": "sarong",
+      "variants": [
+        {
+          "compare_at_price": "89",
+          "price": "49.99"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/Sarong1.jpg?v=1648284686"
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/Sarong2.jpg?v=1648284686"
+        }
+      ]
+    },
+    {
+      "title": "Eyelet Embroidery Beach Kaftan",
+      "body_html": "",
+      "vendor": "",
+      "handle": "eyelet-embroidery-beach-kaftan",
+      "variants": [
+        {
+          "compare_at_price": "109",
+          "price": "89.99"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/EyeletEmbroideryBeachKaftan1.jpg?v=1648284582"
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/EyeletEmbroideryBeachKaftan3.jpg?v=1648284582"
+        }
+      ]
+    },
+    {
+      "title": "Bowling Purse",
+      "body_html": "",
+      "vendor": "",
+      "handle": "bowling-purse",
+      "variants": [
+        {
+          "compare_at_price": "89",
+          "price": "49.99"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/BowlingPurse1.jpg?v=1648284210"
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/BowlingPurse4.jpg?v=1648284211"
+        }
+      ]
+    },
+    {
+      "title": "Satin Bridesmaid Dress",
+      "body_html": "",
+      "vendor": "",
+      "handle": "satin-bridesmaid-dress",
+      "variants": [
+        {
+          "compare_at_price": "299",
+          "price": "99.99"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/SatinBridesmaidDress1.jpg?v=1648283714"
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/SatinBridesmaidDress3.jpg?v=1648283714"
+        }
+      ]
+    },
+    {
+      "title": "Collared Dress",
+      "body_html": "",
+      "vendor": "",
+      "handle": "collared-dress",
+      "variants": [
+        {
+          "compare_at_price": "89",
+          "price": "49.99"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/CollaredDress1.jpg?v=1648265485"
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0604/9513/4942/products/CollaredDress4.jpg?v=1648265486"
+        }
+      ]
+    }
+  ]
+}
