@@ -3,12 +3,15 @@ import { MenuIcon, XIcon, ShoppingBagIcon, UserIcon } from '@heroicons/react/out
 
 import reactLogo from './../../assets/react.svg'
 import { navigation } from './data/navigation'
+import { useCart } from '../../contexts/cart'
 
 function classNames(...classes: any) {
   return classes.filter(Boolean).join(' ')
 }
 
 const Header = () => {
+  const { openCart } = useCart()
+
   return (
     <Disclosure as="nav" className="bg-gray-800">
       {({ open }) => (
@@ -58,8 +61,11 @@ const Header = () => {
                 </a>
 
                 <a
-                  href="/cart"
+                  href="#"
                   className="bg-gray-800 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"
+                  onClick={() => {
+                    openCart()
+                  }}
                 >
                   <ShoppingBagIcon className="h-6 w-6" aria-hidden="true" />
                 </a>

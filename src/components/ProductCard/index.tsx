@@ -2,8 +2,11 @@ import { ShoppingCartIcon } from '@heroicons/react/solid'
 import { Button } from 'flowbite-react'
 
 import { IProduct } from '../../models/product'
+import { useCart } from '../../contexts/cart'
 
 const ProductCard = (props: IProduct) => {
+  const { openCart, addProduct } = useCart()
+
   return (
     <div className="card-wrapper">
       <div className="media media--3-4">
@@ -21,7 +24,14 @@ const ProductCard = (props: IProduct) => {
           <span>${props.variants[0]?.price}</span>
         </div>
         <div className="py-2 flex justify-center">
-          <Button gradientDuoTone="purpleToBlue" size={'lg'}>
+          <Button
+            gradientDuoTone="purpleToBlue"
+            size={'lg'}
+            onClick={() => {
+              addProduct({ ...props, quantity: 1 })
+              openCart()
+            }}
+          >
             <ShoppingCartIcon className="mr-2 h-5 w-5" />
             Add to cart
           </Button>

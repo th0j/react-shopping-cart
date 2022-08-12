@@ -6,8 +6,8 @@ export interface IImage {
 }
 
 export interface IProductVariant {
-  compare_at_price: string
-  price: string
+  compare_at_price: number
+  price: number
 }
 
 export interface IProduct {
@@ -17,6 +17,10 @@ export interface IProduct {
   handle: string
   variants: IProductVariant[]
   images: IImage[]
+}
+
+export interface ICartProduct extends IProduct {
+  quantity: number
 }
 
 export interface IGetProductsResponse {

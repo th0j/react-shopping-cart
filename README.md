@@ -18,9 +18,9 @@ Simple eCommerce web application built with Typescript, ReactJS, Tailwindcss
 - Run: `yarn run dev`
 - Views are on `localhost:5173`
 
-## Resource
+## Resources
 
-- [Tailwind UI](https://tailwindui.com/)
+- [Headless UI](https://headlessui.com/)
 - [Flowbite](https://flowbite.com/docs/getting-started/quickstart/)
 
 ## License

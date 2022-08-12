@@ -7,8 +7,8 @@
       "handle": "knee-high-boots",
       "variants": [
         {
-          "compare_at_price": "89",
-          "price": "49.99"
+          "compare_at_price": 89,
+          "price": 49.99
         }
       ],
       "images": [
@@ -33,8 +33,8 @@
       "handle": "waterproof-winter-boots",
       "variants": [
         {
-          "compare_at_price": "99",
-          "price": "59.99"
+          "compare_at_price": 99,
+          "price": 59.99
         }
       ],
       "images": [
@@ -56,8 +56,8 @@
       "handle": "warm-lined-boots",
       "variants": [
         {
-          "compare_at_price": "79",
-          "price": "29.99"
+          "compare_at_price": 79,
+          "price": 29.99
         }
       ],
       "images": [
@@ -76,8 +76,8 @@
       "handle": "hooded-jacket-with-drawstring",
       "variants": [
         {
-          "compare_at_price": "99",
-          "price": "19.99"
+          "compare_at_price": 99,
+          "price": 19.99
         }
       ],
       "images": [
@@ -96,8 +96,8 @@
       "handle": "oversized-cotton-shirt",
       "variants": [
         {
-          "compare_at_price": "89",
-          "price": "49.99"
+          "compare_at_price": 89,
+          "price": 49.99
         }
       ],
       "images": [
@@ -116,8 +116,8 @@
       "handle": "cotton-dress-with-eyelet-embroidery",
       "variants": [
         {
-          "compare_at_price": "89",
-          "price": "49.99"
+          "compare_at_price": 89,
+          "price": 49.99
         }
       ],
       "images": [
@@ -136,8 +136,8 @@
       "handle": "short-twill-skirt",
       "variants": [
         {
-          "compare_at_price": "299",
-          "price": "79.99"
+          "compare_at_price": 299,
+          "price": 79.99
         }
       ],
       "images": [
@@ -156,8 +156,8 @@
       "handle": "sarong",
       "variants": [
         {
-          "compare_at_price": "89",
-          "price": "49.99"
+          "compare_at_price": 89,
+          "price": 49.99
         }
       ],
       "images": [
@@ -176,8 +176,8 @@
       "handle": "eyelet-embroidery-beach-kaftan",
       "variants": [
         {
-          "compare_at_price": "109",
-          "price": "89.99"
+          "compare_at_price": 109,
+          "price": 89.99
         }
       ],
       "images": [
@@ -196,8 +196,8 @@
       "handle": "bowling-purse",
       "variants": [
         {
-          "compare_at_price": "89",
-          "price": "49.99"
+          "compare_at_price": 89,
+          "price": 49.99
         }
       ],
       "images": [
@@ -216,8 +216,8 @@
       "handle": "satin-bridesmaid-dress",
       "variants": [
         {
-          "compare_at_price": "299",
-          "price": "99.99"
+          "compare_at_price": 299,
+          "price": 99.99
         }
       ],
       "images": [
@@ -236,8 +236,8 @@
       "handle": "collared-dress",
       "variants": [
         {
-          "compare_at_price": "89",
-          "price": "49.99"
+          "compare_at_price": 89,
+          "price": 49.99
         }
       ],
       "images": [

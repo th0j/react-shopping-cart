@@ -6,15 +6,18 @@ import Login from './features/Login'
 import Collections from './features/Collections'
 import Header from './components/Header'
 import Footer from './components/Footer'
+import Drawer from './features/Drawer'
 
 function App() {
   return (
     <div className="App">
       <Header />
+
       <Routes>
         <Route path="/login" element={<Login />} />
         <Route path="/" element={<Collections />} />
       </Routes>
+      <Drawer />
       <Footer />
     </div>
   )

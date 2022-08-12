@@ -4,6 +4,10 @@ body {
   @apply text-base;
 }
 
+.container {
+  @apply mx-auto;
+}
+
 .button {
   @apply w-full sm:w-auto inline-block text-base font-medium text-center tracking-widest transition-all duration-150 ease-out px-8 py-3 rounded-md cursor-pointer;
 }
