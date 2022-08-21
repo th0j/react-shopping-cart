@@ -1,18 +1,28 @@
 import { useEffect, useState } from 'react'
 import ProductCard from '../../components/ProductCard'
+import { useProducts } from '../../contexts/products'
 
-import { IGetProductsResponse, IProduct } from '../../models/product'
+import { IGetProductsResponse, IProduct, IProductVariant } from '../../models/product'
 import { getProducts } from '../../services/productApi'
 import Filters from './components/Filters'
 
 const Collections = () => {
-  const [products, setProducts] = useState<IProduct[]>([])
+  const { products, setProducts, filters } = useProducts()
 
   useEffect(() => {
-    getProducts().then((products: IProduct[]) => {
-      setProducts(products)
-    })
-  }, [setProducts])
+    const fetchData = async () => {
+      const data = await getProducts()
+      let productsFiltered = [...data]
+
+      if (filters.length > 0)
+        productsFiltered = data.filter((p: IProduct) =>
+          p.variants.some((v: IProductVariant) => (v.option1 ? filters.includes(v.option1) : false))
+        )
+      setProducts(productsFiltered)
+    }
+
+    fetchData()
+  }, [filters.length])
 
   return (
     <div className="container flex mt-10 gap-8">

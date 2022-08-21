@@ -14,8 +14,8 @@ const Footer = () => {
             <FlowbiteFooter.Link href="#">Contact</FlowbiteFooter.Link>
           </FlowbiteFooter.LinkGroup>
         </div>
-        <FlowbiteFooter.Divider />
-        <FlowbiteFooter.Copyright href="#" by="React" year={2022} />
+        {/* <FlowbiteFooter.Divider />
+        <FlowbiteFooter.Copyright href="#" by="React" year={2022} /> */}
       </div>
     </FlowbiteFooter>
   )

@@ -1,7 +1,7 @@
 {
   "name": "react-shopping-cart",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "https://vtt298.github.io/react-shopping-cart/",
   "type": "module",
   "scripts": {

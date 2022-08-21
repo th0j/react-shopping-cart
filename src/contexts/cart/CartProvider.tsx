@@ -1,4 +1,4 @@
-import { createContext, useContext, useState, FC } from 'react'
+import { createContext, useContext, useState } from 'react'
 import { ICartProduct } from '../../models/product'
 
 interface ICartContext {

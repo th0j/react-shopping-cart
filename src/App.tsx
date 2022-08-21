@@ -13,10 +13,13 @@ function App() {
     <div className="App">
       <Header />
 
-      <Routes>
-        {/* <Route path="/login" element={<Login />} /> */}
-        <Route path="/" element={<Collections />} />
-      </Routes>
+      <main>
+        <Routes>
+          {/* <Route path="/login" element={<Login />} /> */}
+          <Route path="/" element={<Collections />} />
+        </Routes>
+      </main>
+
       <Drawer />
       <Footer />
     </div>
